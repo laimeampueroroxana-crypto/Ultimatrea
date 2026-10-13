@@ -1,0 +1,43 @@
+
+#stand1 {
+    display: none;
+}
+
+#stand2 {
+    display: none;
+}
+
+#stand3 {
+    display: none;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #aefb6b;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+h2 {
+    color: #2980b9;
+}
+
+button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #1d6fa5;
+}
+
+img {
+    border-radius: 4px;
+    margin-right: 5px;
+}
